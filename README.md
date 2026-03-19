@@ -31,13 +31,12 @@ REST API for parking management, allowing user registration, clients, parking sp
 ## API Preview
 
 ### Swagger
-![Swagger](<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/6facf22c-d23e-41ea-854b-08b606019602" />
+![Swagger](<docs/images/Swagger.png" />
 )
-Valid Test ![Swagger](<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/81bd9f81-7bf9-4909-86b0-f1055c957364" />)
-
+Valid Test ![Swagger](<docs/images/Valid-Test.png" />)
 
 ### Postman
-![Postman](<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/d7eb7771-34e8-4b62-9be8-139a89594d0a" />
+![Postman](<docs/images/Postman.png" />
 )
 
 ##  API Documentation

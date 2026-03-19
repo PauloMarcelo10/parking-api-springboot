@@ -28,16 +28,16 @@ REST API for parking management, allowing user registration, clients, parking sp
 - Vehicle check-out
 - Exception handling
 
-## API Preview
+##  API Preview
 
-### Swagger
-![Swagger](<docs/images/Swagger.png" />
-)
-Valid Test ![Swagger](<docs/images/Valid-Test.png" />)
+###  Swagger
+![Swagger](docs/images/Swagger.png)
 
-### Postman
-![Postman](<docs/images/Postman.png" />
-)
+### Valid Test
+![Valid Test](docs/images/Valid-Test.png)
+
+###  Postman
+![Postman](docs/images/Postman.png)
 
 ##  API Documentation
 After running the project, the API documentation will be available via Swagger (SpringDoc):
